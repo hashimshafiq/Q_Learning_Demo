@@ -18,5 +18,18 @@ This is simple example of of a type of [reinforcement learning] (https://en.wiki
 
 -tkinter
 
+If on Ubuntu you can install tkinter for python3.5 with
+
+$sudo apt-get install python-tk
+
+##Usage
+
+
+Run `python Learner.py` in terminal to see the the bot in action. It'll find the optimal strategy pretty fast
+
+
+
+
+
 
 
