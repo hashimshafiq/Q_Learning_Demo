@@ -27,6 +27,12 @@ $sudo apt-get install python-tk
 
 Run `python Learner.py` in terminal to see the the bot in action. It'll find the optimal strategy pretty fast
 
+##Changes Made so far:
+
+* modified the the game world so that it is now becomes bigger 
+* more obstacles added
+* bot position start randomly now.
+
 
 
 
