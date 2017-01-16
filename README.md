@@ -33,6 +33,10 @@ Run `python Learner.py` in terminal to see the the bot in action. It'll find the
 * more obstacles added
 * bot position start randomly now.
 
+## Demo
+
+![Bot Demo](http://i.imgur.com/Ms6tcYr.png)
+
 
 
 
