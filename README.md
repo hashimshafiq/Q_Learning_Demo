@@ -2,7 +2,7 @@
 
 This is simple example of of a type of [reinforcement learning] (https://en.wikipedia.org/wiki/Reinforcement_learning) called [Q Learning](https://en.wikipedia.org/wiki/Q-learning)
 
-##Overview
+## Overview
 
 ● Rules: The agent (yellow box) has to reach one of the goals to end the game (green or red cell).
 
@@ -12,7 +12,7 @@ This is simple example of of a type of [reinforcement learning] (https://en.wiki
 
 ● Actions: There are only 4 actions. Up, Down, Right, Left.
 
-##Dependencies
+## Dependencies
 
 -Python 3.5
 
@@ -22,12 +22,12 @@ If on Ubuntu you can install tkinter for python3.5 with
 
 $sudo apt-get install python-tk
 
-##Usage
+## Usage
 
 
 Run `python Learner.py` in terminal to see the the bot in action. It'll find the optimal strategy pretty fast
 
-##Changes Made so far:
+## Changes Made so far:
 
 * modified the the game world so that it is now becomes bigger 
 * more obstacles added
